@@ -1,0 +1,9 @@
+# matriz-deldestino
+
+Calculadora de matriz del destino con nueve posiciones, método reproducible, ejemplo resuelto y guía de 22 números. Una herramienta de reflexión, sin predicciones.
+
+## Main page
+- [matriz del destino](https://bonsaionlinecas-sys.github.io/matriz-deldestino/): Calculadora de matriz del destino con nueve posiciones, método reproducible, ejemplo resuelto y guía de 22 números. Una herramienta de reflexión, sin predicciones.
+
+## Method and scope
+One self-contained page with an interactive tool, visible worked examples, limitations and questions. No accounts or financial transactions. Inputs are processed locally in the browser.
